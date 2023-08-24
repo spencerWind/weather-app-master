@@ -1,7 +1,4 @@
 const Weather = require('../models/weather.model');
-Model.MongooseQuery() //each query will follow this structure
-
-
 
 module.exports.createWeather = (request, response) => {
     Weather.create(request.body)
