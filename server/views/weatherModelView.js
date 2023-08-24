@@ -1,4 +1,4 @@
-import CityInfoView from "./InfoCityView";
+import InfoCityView from "./InfoCityView";
 import CurrentWeatherView from "./currentWeatherView";
 import ForecastWeatherView from "./forecastWeatherView";
 
