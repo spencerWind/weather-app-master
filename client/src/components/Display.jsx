@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import clearSky from "../assets/clearSky.png"
 
 const Diplay = ({weather}) => {
-    const [location, setLocation] = useState("")
 
     return (
         <div className="w-96 rounded-lg p-4 bg-display text-slate-900">
